@@ -1,0 +1,1 @@
+这是利用gradle集成的zxing scan！
